@@ -10,7 +10,9 @@
 
 ### Go-Mega 系列
 
-## 媒体帐号
+## 媒体
+
+小弟在各大写作平台的主页:
 
 * [知乎](https://www.zhihu.com/people/bonfychen)
 * [掘金](https://juejin.im/user/58bb49c7570c35006c5d246d)
